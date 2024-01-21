@@ -78,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             const SizedBox(height: 20),
             Text(
-              'Umur: ${hitungUmur()} tahun',
+              'Umur Anda ${hitungUmur()} tahun',
               style: const TextStyle(fontSize: 20),
             ),
           ],
